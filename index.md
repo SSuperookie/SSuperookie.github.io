@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Who AM I
+# WHO AM I
 
 <img src="https://ssuperookie.github.io/yueyan.jpg" class="floatpic" width="360" height="480">
 
@@ -23,7 +23,7 @@ please email me: *pangyueyan9[at]gmail[dot]com*
 
 <br>
 
-## Academic Background :mortar_board:
+## Academic Background 🎓
 
 **<font color='red'> I am applying for a Master's programme starts in 2024 Fall. </font>**
 
@@ -36,7 +36,7 @@ please email me: *pangyueyan9[at]gmail[dot]com*
 
 ---
 
-## Research Interests :laughing:
+## Research Interests 😆
 
 - Human-Computer Interaction
 - Robotics

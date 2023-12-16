@@ -5,7 +5,7 @@ title: Experiences
 ---
 
 
-## Intelligence Engineering Lab
+## Intelligence Engineering Lab 📝
 ### Institute of Software, Chinese Academy of Sciences
 I spent the summers of 2022 & 2023 here. 
 <br>
@@ -28,8 +28,8 @@ This year I joined the Electrotactile Group,which is working on an open-source d
 <br>
 ---
 
-## Smile: Micro Campus Community WeChat Mini Program
-[cv] (https://ssuperookie.github.io/file/smile.pptx)
+## Smile: Micro Campus Community WeChat Mini Program 📱
+[cv] 
 <br>
 <left>
   <img src = "https://p.ipic.vip/l97lne.jpg">
@@ -39,7 +39,7 @@ This year I joined the Electrotactile Group,which is working on an open-source d
 <br>
 
 ---
-## Services
+## Services 🚶
 
 - Oct 2018 - June 2020: Volunteer Club Member, Beijing Bayi School (High School)
 - Sep 2017 - June 2020: Aid Education Club Member, Beijing Bayi School (High School)
