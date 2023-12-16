@@ -5,13 +5,12 @@ title: Awards
 ---
 
 
-
-## Scholarships
+## Scholarships :yen:
 
 - Oct 2023: Academic Excellence Award, BJUT (ranking 3%)
 - Oct 2023: Excellence Student Cadre, Faculty of Information Technology, BJUT.
 
-## Competitions
+## Competitions :trophy:
 
 - Aug 2023: Second Prize in North China Division in the 2023 <br>         HUAWEI CUP National Undergraduate IoT Design Contest
 - Aug 2023: Third Prize in Preliminary Round in the 9th <br>         China InternationalCollege Students ‘Internet+’ Innovation and Entrepreneurship Competition

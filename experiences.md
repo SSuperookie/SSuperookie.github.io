@@ -6,26 +6,30 @@ title: Experiences
 
 
 ## Intelligence Engineering Lab
-
-During undergraduate, my two roommates and I co-founded a tech group called **OpenIoT**. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2023, the OpenIoT team has grown to include 24 official members and has accumulated a total of six national-level competition awards.
-
-<div class="third">
-<img src="https://p.ipic.vip/3g1514.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-</div>
-
+### Institute of Software, Chinese Academy of Sciences
+I spent the summers of 2022 & 2023 here. 
 <br>
 
----
-## Services
+#### 2022
+Last year, I'm new to this interdisciplinary subject, I spent an unforgettable summer with 3D printing, PDMS materials, microfluidic devices and other novel things. 
 
-- Oct 2018 - June 2020: Volunteer Club Member, Beijing Bayi School (High School)
-- Sep 2017 - June 2020: Aid Education Club Member, Beijing Bayi School (High School)
-- Sep 2017 - June 2020: Beijing Roots & Shoots (High School) <br>
----
-## Group Photos
+<left>
+  <img src="/images/2022.jpg">
+</left>
+<br> 
 
+#### 2023
+This year I joined the Electrotactile Group,which is working on an open-source device that enhances electrotactile through force-coupling. The device can be used in mouse, touch screen and VR/AR environments.
+
+<left>
+  <img src="/images/2023.jpg">
+</left>
+
+<br>
+---
+
+## Smile: Micro Campus Community WeChat Mini Program
+[cv] (https://ssuperookie.github.io/file/smile.pptx)
 <br>
 <left>
   <img src = "https://p.ipic.vip/l97lne.jpg">
@@ -34,13 +38,11 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 
 <br>
 
-<div class="third">
-<img src="https://p.ipic.vip/3g1514.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-</div>
+---
+## Services
+
+- Oct 2018 - June 2020: Volunteer Club Member, Beijing Bayi School (High School)
+- Sep 2017 - June 2020: Aid Education Club Member, Beijing Bayi School (High School)
+- Sep 2017 - June 2020: Beijing Roots & Shoots (High School) 
 
 
-
-
-<br>
