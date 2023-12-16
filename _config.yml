@@ -1,5 +1,5 @@
 title: Yueyan Pang
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Yueyan Pang. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://ssuperookie.github.io/
@@ -10,14 +10,11 @@ owner:
   avatar: yueyan.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: pangyueyan9@gmail.com
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  # cv: https://ssuperookie.github.io/file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   
   github: SSuperookie
   
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
    instagram: pang_yy__
   # lastfm:
   # tumblr:
@@ -79,9 +76,9 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: yueyanpang
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
+# Latest update in 2023/12/10 by yueyan pang.
