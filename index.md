@@ -6,14 +6,15 @@ layout: page
 
 <img src="https://ssuperookie.github.io/yueyan.jpg" class="floatpic" width="360" height="480">
 
-
+<br>
 Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 <br>
 I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. I have just decided on my Graduacte Project and Thesis  topic: Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
 <br>
-I am currently interning as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html)
+I am currently interning as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html)I am involved in the requirement analysis and interaction design of the LUVAR Homecare CPAP Device software
 <br>
 I also spent two lovely summers working on research projects with [Prof. Teng Han](https://scholar.google.com/citations?hl=en&user=kHKwQ9gAAAAJ)'s team at Intelligence Engineering Lab (Beijing Key Lab of Human-Computer Interaction), Institute of Software, Chinese Academy of Sciences.
+<br>
 <br>
 If you are interested in any aspect of me, I would love to chat and collaborate.
 please email me: *pangyueyan9[at]gmail[dot]com*
@@ -26,7 +27,8 @@ please email me: *pangyueyan9[at]gmail[dot]com*
 
 - **Sep 2020 - July 2024:** Beijing University of Technlogy (BEng)
 - **Sep 2017 - June 2020:** Beijing Bayi School (Hign School)
-- Expect to apply for a Master's programme in HCI/CS. Afterward, I hope to join an innovative industry company as a **UX Designer/Usability Specialist**, focusing on Sports/Healthcare.**Contact me if you have any leads!**
+- Expect to apply for a Master's programme in **HCI/CS**. Afterward, I hope to join an innovative industry company as a **UX Designer/Usability Specialist**, focusing on Sports/Healthcare.<br>
+**Contact me if you have any leads!**
 
 <br>
 
