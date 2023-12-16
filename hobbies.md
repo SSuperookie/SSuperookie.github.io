@@ -25,7 +25,7 @@ title: Hobbies
 <br>Despite not having a glamorous plot, I enjoy collecting different types of cameras and bring them with me to capture moments in life. Kon Satoshi is my favorite director, his films not only have fantastic plots but also exquisite editing techniques. Under his influence, I have also started learning to edit the video clips I recorded into [short films](https://space.bilibili.com/29753578).
 
 
-## Developing Hobbies 🔎
+## Developing... 🔎
 
 Painting and Archery remove my worries, refreshing both my mind and body. Seemingly calm activities, bring me an exhilarating sense of immersion, and I am fascinated by them.
 
