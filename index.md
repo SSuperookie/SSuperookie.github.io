@@ -4,24 +4,25 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://ssuperookie.github.io/yueyan.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 
-I am a senior student majoring in **EECS** at Fuzhou University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. I have just decided on my Graduacte Project and Thesis  topic: Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). I am currently interning as a Product Manager at Beijing Aeonmed Co., Ltd. I am involved in the requirement analysis and interaction design of the LUVAR Homecare CPAP Device software. I also spent two lovely summer research project with [Prof. Teng Han](https://www.cl.cam.ac.uk/~pl219/)'s team at Intelligence Engineering Lab (Beijing Key Lab of Human-Computer Interaction), Institute of Software, Chinese Academy of Sciences.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+<br>
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *pangyueyan9[at]gmail[dot]com*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'> I am applying for a Master programme starts in 2024 Fall. </font>**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2020 - July 2024:** Beijing University of Technlogy (BEng)
+- **Sep 2017 - June 2020:** Beijing Bayi School (Hign School)
+- Expect to apply for a Master's programme in HCI/CS. Afterward, I hope to join an innovative industry company as a **UX Designer/Usability Specialist**, focusing on Sports/Healthcare. 
+**Contact me if you have any leads!**
 
 <br>
 
@@ -29,23 +30,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
+- Human-Computer Interaction
+- Robotics
 - Applied Machine Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI** and its application in **Assistance/Healthcare**. In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
 
----
 
-## News and Updates
 
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
 
