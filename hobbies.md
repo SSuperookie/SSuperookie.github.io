@@ -11,7 +11,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
-<img src="/images/festival.JPG">
+<img src="/images/swiming1.JPG">
 </div>
 <br>I have a deep love for music. I started learning the violin at the age of six and began studying the guitar in middle school. In high school music class, I also had the opportunity to try out the drum kit and the Chinese zither. In addition to playing instruments, I enjoy attending music festivals and spending memorable nights at jazz bars.
 
