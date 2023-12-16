@@ -30,7 +30,6 @@ title: Hobbies
 Painting and Archery remove my worries, refreshing both my mind and body. Seemingly calm activities, bring me an exhilarating sense of immersion, and I am fascinated by them.
 
 
-
 <div class="half">
 <img src="/images/archery.JPG">
 <img src="/images/painting.JPG">

@@ -23,11 +23,10 @@ During undergraduate, my two roommates and I co-founded a tech group called **Op
 - Oct 2018 - June 2020: Volunteer Club Member, Beijing Bayi School (High School)
 - Sep 2017 - June 2020: Aid Education Club Member, Beijing Bayi School (High School)
 - Sep 2017 - June 2020: Beijing Roots & Shoots (High School) <br>
-
-## Group Photos
 ---
-<br>
+## Group Photos
 
+<br>
 <left>
   <img src = "https://p.ipic.vip/l97lne.jpg">
 </left>
