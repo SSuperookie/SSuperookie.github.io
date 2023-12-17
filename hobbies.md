@@ -9,8 +9,8 @@ title: Hobbies
 ## Music 🎶
 
 <div class="third">
-<img src="/images/violin.JPG">
-<img src="/images/guitar.JPG">
+<img src="/images/violin.jpg">
+<img src="/images/guitar.jpg">
 <img src="/images/festival.jpg">
 </div>
 <br>I have a deep love for music. I started learning the violin at the age of six and began studying the guitar in middle school. In high school music class, I also had the opportunity to try out the drum kit and the Chinese zither. In addition to playing instruments, I enjoy attending music festivals and spending memorable nights at jazz bars.
