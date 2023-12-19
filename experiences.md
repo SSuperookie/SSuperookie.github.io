@@ -18,6 +18,15 @@ I am new to this interdisciplinary subject, spending an unforgettable summer wit
 <left>
   <img src="/images/2022.jpg">
 </left>
+
+<div class="third">
+<img src="/images/Actuators.png">
+<img src="/images/pne.jpg">
+<img src="/images/wearable.jpg">
+</div>
+<left>
+  <img src="/images/video2022.gif">
+</left>
 <br>
 
 #### 2023
@@ -29,9 +38,11 @@ I joined the Electrotactile Group, which is working on an open-source device tha
 <img src="/images/vr.jpg">
 <img src="/images/app.png">
 </div>
-
+<left>
+ <img src="/images/example.gif">
+</left>
 <br>
----
+
 
 ## Smile: Micro Campus Community WeChat Mini Program 📱
 Me and my team members have built a WeChat mini program for sharing campus information. The mini program is dedicated to helping students quickly find solutions**<font color='#62D919'> (our identity and goals: ASAP) </font>** to their campus problems. In addition, we have also integrated ChatGLM into this mini program, providing help and advice to students 24/7.
