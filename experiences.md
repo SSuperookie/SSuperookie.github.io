@@ -12,12 +12,9 @@ I spent the summers of 2022 & 2023 here.
   <img src="/images/2023.jpg">
 </left>
 <br>
-#### 2022
-I am new to this interdisciplinary subject, spending an unforgettable summer with 3D printing, PDMS materials, microfluidic devices and other novel things. 
 
-<left>
-  <img src="/images/2022.jpg">
-</left>
+#### 2022
+I am new to this interdisciplinary subject, spending an unforgettable summer with 3D printing, PDMS materials, microfluidic devices and other novel things. In this project, our goal is to engineer flexible actuators based on electromagnetically actuated, pneumatic drive, and electrohydraulic. Users will wear actuators to conduct experiments in VR environments, and we will quantitatively evaluate the ability of each actuator to simulate inertial forces.
 
 <div class="third">
 <img src="/images/Actuators.png">
