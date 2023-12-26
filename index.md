@@ -31,7 +31,7 @@ please email me: *pangyueyan9[at]gmail[dot]com*
 - **Sep. 2017 - June 2020:** Beijing Bayi School (Hign School)
 <br>
 <br>
-Expect to apply for a Master's programme in **HCI/CS**. Afterward, I hope to join an innovative industry company as a **UX Designer/Usability Specialist**, focusing on Sports/Healthcare.<br>
+Expect to apply for a Master's programme in **HCI/CS**. Afterward, I hope to join an innovative company focused on Sports/Healthcare, serving as a **UX Designer/Usability Specialist**,.<br>
 **Contact me if you have any leads!**
 
 <br>

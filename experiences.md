@@ -42,7 +42,7 @@ I joined the Electrotactile Group, which is working on an open-source device tha
 
 
 ## Smile: Micro Campus Community WeChat Mini Program 📱
-Me and my team members have built a WeChat mini program for sharing campus information. The mini program is dedicated to helping students quickly find solutions**<font color='#62D919'> (our identity and goals: ASAP) </font>** to their campus problems. In addition, we have also integrated ChatGLM into this mini program, providing help and advice to students 24/7.
+Me and my team members have built a WeChat mini program for sharing campus information. The mini program is dedicated to helping students quickly find solutions**<font color='#62D919'> (our identity and goals: ASAP) </font>** to their campus problems. In addition, we have also integrated ChatGLM-130B into this mini program, providing help and advice to students 24/7.
 <br>
 <left>
  <img src="/images/smile.jpg">
