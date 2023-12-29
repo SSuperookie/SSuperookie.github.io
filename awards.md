@@ -13,7 +13,12 @@ title: Awards
 ## Competitions 🏆
 
 - Aug. 2023: Second Prize in North China Division in the 2023 HUAWEI CUP National Undergraduate IoT Design Contest
-- Aug. 2023: Third Prize in Preliminary Round in the 9th China InternationalCollege Students ‘Internet+’ Innovation and Entrepreneurship Competition
+- Aug. 2023: Third Prize in Preliminary Round in the 9th China International College Students ‘Internet+’ Innovation and Entrepreneurship Competition
 - Aug. 2023: Second Prize in Final Contest in the 2023 (16th) Chinese Collegiate Computing Competition 
 - Aug. 2022: Second Prize in Final Contest in the 2022 HUAWEI CUP National Undergraduate IoT Design Contest<br>
-
+<left>
+ <img src="/images/Cane.jpg">
+</left>
+<left>
+ <img src="/images/cane.gif">
+</left>
