@@ -47,6 +47,11 @@ In a word, ML and Human-central Design positively influence the life of everybod
 
 <br>
 
+<video controls>
+  <source src="/videos/1226.mp4" type="video/mp4">
+</video>
+
+
 
 
 
