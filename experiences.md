@@ -29,7 +29,7 @@ I am new to this interdisciplinary subject, spending an unforgettable summer wit
 #### 2023
 I joined the Electrotactile Group, which is working on an open-source device that enhances electrotactile through force-coupling. The device can be used in mouse, touch screen and VR/AR environments.
 <br>
-**<font color='#FF7F50'> The Status of Our Paper: Re-submission being reviewed </font>**
+
 
 <div class="half">
 <img src="/images/vr.jpg">
