@@ -9,7 +9,7 @@ layout: page
 <br>
 Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 <br>
-I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. I have just decided on my Graduacte Project (Thesis) topic: *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
+I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. My Graduate Project (Thesis) topic: *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
 <br>
 <br>
 I am currently interning as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html). I am involved in the requirement analysis and interaction design of the [LUVAR Homecare CPAP Device](https://heyermedical.de/en/product/luvar/) software.
@@ -39,10 +39,10 @@ Expect to apply for a Master's programme in **HCI/CS**. Afterward, I hope to joi
 ## Research Interests 😆
 
 - Human-Computer Interaction
-- Robotics
+- Ubiquitous Computing
 - Applied Machine Learning
 
-My current research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI** and its application in **Assistance/Healthcare**. 
+My current research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Embedded System** and its application in **Assistance/Healthcare**. 
 In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
