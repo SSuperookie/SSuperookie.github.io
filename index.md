@@ -9,7 +9,7 @@ layout: page
 <br>
 Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 <br>
-I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. My Graduate Project (Thesis) topic: *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
+I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. My Graduation Project (Thesis) topic: *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
 <br>
 <br>
 I am currently interning as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html). I am involved in the requirement analysis and interaction design of the [LUVAR Homecare CPAP Device](https://heyermedical.de/en/product/luvar/) software.
