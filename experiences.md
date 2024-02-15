@@ -27,7 +27,7 @@ I am new to this interdisciplinary subject, spending an unforgettable summer wit
 <br>
 
 #### 2023
-I joined the Electrotactile Group, which is working on open-source devices. The first project enhances electrotactile through force-coupling, and the device can be used in mouse, touch screen and VR/AR environments. The second project presents a textile interface that provides high-resolution haptic feedback and touch-tracking capabilities, and hints at its potential applications in everyday textile such as yoga mats and pillow covers.
+I joined the Electrotactile Group, which is working on open-source devices. The first project (R&R in CHI 2024) enhances electrotactile through force-coupling, and the device can be used in mouse, touch screen and VR/AR environments. The second project (accepted by CHI 2024) presents a textile interface that provides high-resolution haptic feedback and touch-tracking capabilities, and hints at its potential applications in everyday textile such as yoga mats and pillow covers.
 <br>
 
 
