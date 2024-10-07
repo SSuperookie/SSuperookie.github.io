@@ -12,7 +12,7 @@ title: Awards
 
 ## Projects
 
-- **July 2023:** Intercollegiate Collaboration in Innovative Training Program for College Students in Beijing (In progress)
+- **Sep. 2024 - July 2023:** Intercollegiate Collaboration in Innovative Training Program for College Students in Beijing (Completed)
 - **July 2023 - Dec. 2023:** Spark Fund of Beijing University of Technlogy: Academic Family Tree APP Prototyping (￥800)
 - **July 2023 - Dec. 2023:** Spark Fund of Beijing University of Technlogy: Research Report on Future Applications of Artificial Nanorobots in Medicine(￥800) 
 

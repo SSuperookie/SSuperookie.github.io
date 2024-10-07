@@ -13,7 +13,7 @@ I am a graduate student majoring in **Electrical Engineering** at Columbia Unive
 
 <br>
 <br>
-I have a few experience in healthcare. My Graduation Project (Thesis) topic is *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He, Beijing University of Technlogy](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). Click [AWARDS] (https://ssuperookie.github.io//awards/) to check more.
+I have a few experience in healthcare. My Graduation Project (Thesis) topic is *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He, Beijing University of Technlogy](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). Click [AWARDS](https://ssuperookie.github.io//awards/) check more.
 <br>
 <br>
 I interned as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html) for Dec 2023 to Mar 2024. I am involved in the requirement analysis and interaction design of the [LUVAR Homecare CPAP Device](https://heyermedical.de/en/product/luvar/) software.
