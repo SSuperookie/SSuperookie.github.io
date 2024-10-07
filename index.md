@@ -35,9 +35,6 @@ please email me: *yp2726[at]columbia[dot]edu*
 - **Sep. 2024 - Expected Dec 2025:** Columbia University (MSc)
 - **Sep. 2020 - July 2024:** Beijing University of Technlogy (BEng)
 
-<br>
-<br>
-
 
 ## Research Interests 😆
 
