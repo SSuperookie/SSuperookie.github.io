@@ -27,6 +27,7 @@ please email me: *yp2726[at]columbia[dot]edu*
 
 <br>
 **<font color='red'> I am applying for a RA and summer intern in 2025. </font>**
+<br>
 **<font color='red'> If you have any leads, please contact me. </font>**
 
 ## Academic Background 🎓
@@ -37,8 +38,6 @@ please email me: *yp2726[at]columbia[dot]edu*
 <br>
 <br>
 
-
-<br>
 
 ## Research Interests 😆
 
