@@ -9,30 +9,33 @@ layout: page
 <br>
 Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 <br>
-I am a senior student majoring in **Software Engineering** at Beijing University of Technlogy. My Graduation Project (Thesis) topic: *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). 
+I am a graduate student majoring in **Electrical Engineering** at Columbia University, focusing on neuroengineering and machine learning. 
+
 <br>
 <br>
-I am currently interning as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html). I am involved in the requirement analysis and interaction design of the [LUVAR Homecare CPAP Device](https://heyermedical.de/en/product/luvar/) software.
+I have a few experience in healthcare. My Graduation Project (Thesis) topic is *Wearable Environment Alert System with Sound Perception Technology for the Hearing Impaired*, advised by [Prof.Jian He, Beijing University of Technlogy](https://xueshu.baidu.com/scholarID/CN-BY75SSRJ). Click [AWARDS] (https://ssuperookie.github.io//awards/) to check more.
 <br>
 <br>
-I also spent two lovely summers working on research projects with [Prof. Teng Han](https://scholar.google.com/citations?hl=en&user=kHKwQ9gAAAAJ)'s team at Intelligence Engineering Lab (Beijing Key Lab of Human-Computer Interaction), Institute of Software, Chinese Academy of Sciences.
+I interned as a Product Manager at [Beijing Aeonmed Co., Ltd.](https://www.aeonmed.com/english.html) for Dec 2023 to Mar 2024. I am involved in the requirement analysis and interaction design of the [LUVAR Homecare CPAP Device](https://heyermedical.de/en/product/luvar/) software.
+<br>
+<br>
+I also spent two lovely summers working on research projects of **haptic/tactile feedback** with [Prof. Teng Han](https://scholar.google.com/citations?hl=en&user=kHKwQ9gAAAAJ)'s team at Intelligence Engineering Lab (Beijing Key Lab of Human-Computer Interaction), Institute of Software, Chinese Academy of Sciences.
 <br>
 <br>
 If you are interested in any aspect of me, I would love to chat and collaborate.
-please email me: *pangyueyan9[at]gmail[dot]com*
+please email me: *yp2726[at]columbia[dot]edu*
 
 <br>
 
 ## Academic Background 🎓
 
 **<font color='red'> I am applying for a Master's programme starts in 2024 Fall. </font>**
-
+- **Sep. 2024 - Expected Dec 2025:** Columbia University (MSc)
 - **Sep. 2020 - July 2024:** Beijing University of Technlogy (BEng)
 - **Sep. 2017 - June 2020:** Beijing Bayi School (Hign School)
 <br>
 <br>
-Expect to apply for a Master's programme in **HCI/CE**. Afterward, I hope to join an innovative company focused on Sports/Healthcare, serving as a **Embedded Engineer/Usability Specialist**,.<br>
-**Contact me if you have any leads!**
+
 
 <br>
 
@@ -42,7 +45,7 @@ Expect to apply for a Master's programme in **HCI/CE**. Afterward, I hope to joi
 - Ubiquitous Computing
 - Applied Machine Learning
 
-My current research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Embedded System** and its application in **Assistance/Healthcare**. 
+My research experience focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Embedded System** and its application in **Assistance/Healthcare**. 
 In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
