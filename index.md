@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 please email me: *yp2726[at]columbia[dot]edu*
 
 <br>
-**<font color='red'> I am applying for a RA and summer intern in 2025. </font>**
+**<font color='red'> I am applying for a RA or summer intern in 2025. </font>**
 <br>
 **<font color='red'> If you have any leads, please contact me. </font>**
 
