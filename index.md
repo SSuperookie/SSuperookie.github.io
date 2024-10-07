@@ -26,13 +26,14 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 please email me: *yp2726[at]columbia[dot]edu*
 
 <br>
+**<font color='red'> I am applying for a RA and summer intern in 2025. </font>**
+**<font color='red'> If you have any leads, please contact me. </font>**
 
 ## Academic Background 🎓
 
-**<font color='red'> I am applying for a Master's programme starts in 2024 Fall. </font>**
 - **Sep. 2024 - Expected Dec 2025:** Columbia University (MSc)
 - **Sep. 2020 - July 2024:** Beijing University of Technlogy (BEng)
-- **Sep. 2017 - June 2020:** Beijing Bayi School (Hign School)
+
 <br>
 <br>
 
@@ -42,10 +43,11 @@ please email me: *yp2726[at]columbia[dot]edu*
 ## Research Interests 😆
 
 - Human-Computer Interaction
-- Ubiquitous Computing
 - Applied Machine Learning
+- Biosignal Processing
+- Ubiquitous Computing
 
-My research experience focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Embedded System** and its application in **Assistance/Healthcare**. 
+My previous research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Wearable Device** and its application in **Assistance/Healthcare**. 
 In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
