@@ -47,7 +47,7 @@ please email me: *yp2726[at]columbia[dot]edu*
 - Biosignal Processing
 - Ubiquitous Computing
 
-My previous research focuses on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Wearable Device** and its application in **Assistance/Healthcare**. 
+My previous research focus on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Wearable Device** and its application in **Assistance/Healthcare**. 
 In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
