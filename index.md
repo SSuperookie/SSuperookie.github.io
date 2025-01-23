@@ -9,7 +9,7 @@ layout: page
 <br>
 Here is **Yueyan Pang (Cathy, 庞悦妍)**.
 <br>
-I am a graduate student majoring in **Electrical Engineering** at Columbia University, focusing on neuroengineering and machine learning. 
+I am a graduate student majoring in **Electrical Engineering** at Columbia University, focusing on Signal Processing and Machine Learning. 
 
 <br>
 <br>
@@ -38,12 +38,12 @@ please email me: *yp2726[at]columbia[dot]edu*
 
 ## Research Interests 😆
 
-- Human-Computer Interaction
+
 - Applied Machine Learning
 - Biosignal Processing
-- Ubiquitous Computing
+- Human-Computer Interaction
 
-My previous research focus on real-life applications of haptic perception technology combined with machine learning. My interest is **HCI/Wearable Device** and its application in **Assistance/Healthcare**. 
+My previous research focus on real-life applications of haptic perception technology combined with machine learning. My interest is **Applied ML/ Signal Processing** and its application in **Assistance/Healthcare**. 
 In a word, ML and Human-central Design positively influence the life of everybody. I wish to devote myself to this meaningful cause and bring well-being to society.
 
 <br>
