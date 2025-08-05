@@ -7,7 +7,7 @@ layout: page
 <img src="https://ssuperookie.github.io/yueyan.jpg" class="floatpic" width="360" height="480">
 
 <br>
-Here is **Yueyan Pang (Cathy, 庞悦妍)**.
+Here is **Yueyan Pang (Cathy)**.
 <br>
 I am a graduate student majoring in **Electrical Engineering** at Columbia University, focusing on Signal Processing and Machine Learning. 
 
@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate.
 please email me: *yp2726[at]columbia[dot]edu*
 
 <br>
-**<font color='red'> I am applying for a RA or summer intern in 2025. </font>**
+**<font color='red'> I am applying for a RA or intern in 2025 Fall. </font>**
 <br>
 **<font color='red'> If you have any leads, please contact me. </font>**
 
